@@ -1,0 +1,14 @@
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\MainWindow.g.cs
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.cs
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\MainWindow.baml
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.g.resources
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\fyp\documents\visual studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
